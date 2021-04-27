@@ -1,5 +1,5 @@
 **Wanna download my code for contribute open source?**
-
+Erick write comment code
 `git clone https://github.com/minhbac333studyus/DiskScheduling-OS-with-StrategyPattern`
 
 **If you are manager**
