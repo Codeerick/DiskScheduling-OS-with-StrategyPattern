@@ -5,6 +5,7 @@
 #include "Fcfs_algorithm.h"
 #include <ctime>
 #include<random>
+//Sone thing as 
 using namespace std;
 int produceRandom();
 void initualizeData(DiskScheduling& ds);
